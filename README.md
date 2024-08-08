@@ -1,2 +1,14 @@
-# BFX_School_Projects
-Public repo containing code and work done by Rizky Kafrawi during coursework completed at Boston University spanning 2021-2023.
+# Project Description
+
+This repo contains code developed to replicate the results of the experiment performed by Marisa et. al. 
+
+# Contributors
+
+1. Allison Choy - AllisonWChoy 
+2. Aneeq Husain - aneeqh
+3. Rizky Kafrawi -rkafrawi
+4. Reshma Ramaiah - ReshmaRamaiah10
+
+# Repository Contents
+
+Provide a brief description of each script/code file in this repo, what it does, and how to execute it
